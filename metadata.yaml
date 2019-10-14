@@ -1,0 +1,35 @@
+_repo: The-Bustan-of-Sadi-Translated-from-the-Persian-with-an-introduction_60471
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Edwards, A. Hart
+    gutenberg_agent_id: '50969'
+    url: http://www.gutenberg.org/2009/agents/50969
+creator:
+  author:
+    agent_name: Sadi
+    aliases:
+    - Saadi, Muslikhiddin
+    - Sadee
+    - Saadi, Mushrifaddin
+    - Saadi, Mulikhiddin
+    - Saati
+    - Saadi
+    - Saudee, Sheik Muslahuddeen
+    gutenberg_agent_id: '39900'
+    url: http://www.gutenberg.org/2009/agents/39900
+description: ''
+gutenberg_issued: '2019-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Bustan of Sadi
+
+  Translated from the Persian with an introduction'
+url: http://www.gutenberg.org/ebooks/60471
